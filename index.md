@@ -49,3 +49,15 @@ If you like to join our event as a speaker on our upcoming events, Kindly mail u
 ## Local News
 - Meeting Location - Erode
 - Everyone is welcome to join us at our chapter meetings.
+## Upcoming Events 
+-Event Date: 13 March 2021
+-Time:6:00 PM IST (Asia/Kolkata)
+-Event mode: Online
+-Chief Guest: Sandeep Srinivasan, Security Researcher
+-Topic: How to get started in Bug Bounty? 
+-Event Meet ID will be sent to the email given in the forms
+-Contact us via instagram @owasp.erode
+-Join our upcoming event by filling out the form : https://forms.gle/F17HzBCeLEXJWuQG7
+
+##To Join Us
+-If you're an erodian, Join our OWASP Chapter Erode by filling out this membership form : https://forms.gle/dGGCT5G2jtbtimWR8
