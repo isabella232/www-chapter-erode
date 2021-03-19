@@ -7,7 +7,7 @@ region: Asia
 
 ---
 
-## Welcome
+# Welcome
 
 
 <img src="assets/images/logo/logo.png"/>
@@ -52,23 +52,15 @@ If you like to join our event as a speaker on our upcoming events, Kindly mail u
 - Inauguration Event of OWASP Erode on 13th March 2021 , 6PM IST 
 
 
+##  Events Conducted
+
+Event Date | Event Mode | Time | Topic | Speaker
+--- | --- | --- | --- |---
+13 March 2021 | On-line | 6:00PM IST | How to get started in Bug Bounty? | Sandeep Srinivasan
+
 ## Upcoming Events
 
-- Event Date: 13 March 2021
-
-- Time:6:00 PM IST (Asia/Kolkata)
-
-- Event mode: Online
-
-- Chief Guest: Sandeep Srinivasan, Security Researcher
-
-- Topic: How to get started in Bug Bounty? 
-
-- Event Meet ID will be sent to the email given in the forms
-
-- Contact us via instagram @owasp.erode
-
-- Join this upcoming event by filling out the form : https://forms.gle/F17HzBCeLEXJWuQG7
+Coming soon..
 
 ## To Join OWASP Erode
 
