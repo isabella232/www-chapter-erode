@@ -60,7 +60,14 @@ Event Date | Event Mode | Time | Topic | Speaker
 
 ## Upcoming Events
 
-Coming soon..
+Event Date | Event Mode | Time | Topic | Speaker | Registeration Link
+--- | --- | --- | --- |---
+17 and 18 March 2021 | On-line | 5:00PM IST | Learn to Hack Through CTFs by OWASP ERODE and TamilCTF Team | Sachin, Abhinivesh | [Register Now]{https://forms.gle/VAjMFk8fnFkg6AKT9}
+
+
+
+<img src="assets/images/events/LHTC.png"/>
+    
 
 ## To Join OWASP Erode
 
