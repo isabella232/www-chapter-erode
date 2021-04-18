@@ -57,15 +57,11 @@ If you like to join our event as a speaker on our upcoming events, Kindly mail u
 Event Date | Event Mode | Time | Topic | Speaker
 --- | --- | --- | --- |---
 13 March 2021 | On-line | 6:00PM IST | How to get started in Bug Bounty? | Sandeep Srinivasan
+17 March 2021 | On-line | 5:00PM IST | Learn to Hack Through CTFs | Sachin, Abhinivesh
 
 ## Upcoming Events
+Coming soon
 
-Event Date | Event Mode | Time | Topic | Speaker | Registeration Link
---- | --- | --- | --- | --- | ---
-17 and 18 March 2021 | On-line | 5:00PM IST | Learn to Hack Through CTFs by OWASP ERODE and TamilCTF Team | Sachin, Abhinivesh | [Register Now](https://forms.gle/VAjMFk8fnFkg6AKT9)
-
-
-<img src="assets/images/LHTC.png"/>
     
 
 ## To Join OWASP Erode
