@@ -57,7 +57,7 @@ If you like to join our event as a speaker on our upcoming events, Kindly mail u
 Event Date | Event Mode | Time | Topic | Speaker
 --- | --- | --- | --- |---
 13 March 2021 | On-line | 6:00PM IST | How to get started in Bug Bounty? | Sandeep Srinivasan
-17 March 2021 | On-line | 5:00PM IST | Learn to Hack Through CTFs | Sachin, Abhinivesh
+17 April 2021 | On-line | 5:00PM IST | Learn to Hack Through CTFs | Sachin, Abhinivesh
 
 ## Upcoming Events
 Coming soon
