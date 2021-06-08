@@ -58,6 +58,7 @@ Event Date | Event Mode | Time | Topic | Speaker
 --- | --- | --- | --- |---
 13 March 2021 | On-line | 6:00PM IST | How to get started in Bug Bounty? | Sandeep Srinivasan
 17 April 2021 | On-line | 5:00PM IST | Learn to Hack Through CTFs | Sachin, Abhinivesh
+30 May 2021 | On-line | 5:00PM IST | Intro to SQL Injection | Monish Kumar
 
 ## Upcoming Events
 Coming soon
