@@ -70,4 +70,4 @@ Coming soon
 
 ## To Join OWASP Erode
 
-- If you're an erodian, Join our OWASP Chapter Erode by filling out this membership form : https://forms.gle/dGGCT5G2jtbtimWR8
+- If you're an erodian, Join our OWASP Chapter Erode by filling out this membership form :
