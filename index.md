@@ -62,12 +62,21 @@ Event Date | Event Mode | Time | Topic | Speaker
 13 March 2021 | On-line | 6:00PM IST | How to get started in Bug Bounty? | Sandeep Srinivasan
 17 April 2021 | On-line | 5:00PM IST | Learn to Hack Through CTFs | Sachin, Abhinivesh
 30 May 2021 | On-line | 5:00PM IST | Intro to SQL Injection | Monish Kumar
+27 June 2021 | On-line | 5:00PM IST | Getting Started in Android Security | Abhinivesh S 
 
 ## Upcoming Events
-Coming soon
+Getting Started in Android Security by 
+Abhinivesh S
+Topics covered:
 
+1. How Android works.
+2. Android security fundamentals.
+3. System security vs application security.
+
+Session Duration: 1hour
+Meet link: https://meet.google.com/rgt-xkjk-mxr
     
 
 ## To Join OWASP Erode
 
-- If you're an erodian, Join our OWASP Chapter Erode by filling out this membership form :
+- Mail us to [OWASP Admin](mailto:sachin.selvaraju@owasp.org)
