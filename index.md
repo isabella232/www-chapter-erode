@@ -65,17 +65,20 @@ Event Date | Event Mode | Time | Topic | Speaker
 27 June 2021 | On-line | 5:00PM IST | Getting Started in Android Security | Abhinivesh S 
 
 ## Upcoming Events
-Getting Started in Android Security by 
-Abhinivesh S
-Topics covered:
 
-1. How Android works.
-2. Android security fundamentals.
-3. System security vs application security.
+XML External Entity (XXE)
+by OWASP Erode
 
-Session Duration: 1hour
-Meet link: https://meet.google.com/rgt-xkjk-mxr
+An XML External Entity attack is a type of attack against an application that parses XML input. This attack occurs when XML input containing a reference to an external entity is processed by a weakly configured XML parser. 
+Join us in the webinar and learn more about XXE
+
+Speaker: Monish Kumar ( Exploit Everything)
+
+Time: 5:00-6:00PM IST 
+
+Date:04 JULY 2021
     
+Check out this Meetup Group in Erode: https://www.meetup.com/owasp-erode/ #Meetup #Erode via @Meetup 
 
 ## To Join OWASP Erode
 
