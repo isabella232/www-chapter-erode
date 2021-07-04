@@ -21,6 +21,9 @@ Follow us on twitter and instagram to get instant updates on Upcoming events
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
+## OWASP ERODE is proudly celebrating OWASP's 20th Anniversary
+[![OWASP 20th Anniversary Image](assets/images/OWASP.jpeg)](https://20thanniversary.owasp.org/)
+
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
