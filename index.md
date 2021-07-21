@@ -81,4 +81,4 @@ Check out this Meetup Group in Erode: https://www.meetup.com/owasp-erode/ #Meetu
 
 ## To Join OWASP Erode
 
-- Mail us to [OWASP Admin](mailto:sachin.selvaraju@owasp.org)
+- [Email us] (mailto:sachin.selvaraju@owasp.org)
