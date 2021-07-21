@@ -70,8 +70,11 @@ Event Date | Event Mode | Time | Topic | Speaker
 
 ## Upcoming Events
 
-Coming soon
-    
+25 July 2021, 5PM IST
+Methodologies and Approach to start Bug Bounty Hunting
+By Tushar Verma
+Join using link : https://www.meetup.com/owasp-erode/events/279603761/
+
 Check out this Meetup Group in Erode: https://www.meetup.com/owasp-erode/ #Meetup #Erode via @Meetup 
 
 ## To Join OWASP Erode
