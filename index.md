@@ -67,15 +67,12 @@ Event Date | Event Mode | Time | Topic | Speaker
 30 May 2021 | On-line | 5:00PM IST | Intro to SQL Injection | Monish Kumar
 27 June 2021 | On-line | 5:00PM IST | Getting Started in Android Security | Abhinivesh S 
 4 July 2021 | On-line | 5:00PM IST | XML External Entity (XXE) | Monish Kumar
+25 July 2021 | On-line | 5:00PM IST | Methodologies and Approach to start Bug Bounty Hunting | Tushar Verma
+
 
 ## Upcoming Events
 
-- Methodologies and Approach to start Bug Bounty Hunting
-  By Tushar Verma
-
-- Date and Time :25 July 2021, 5PM IST
-
-- Join using link : https://www.meetup.com/owasp-erode/events/279603761/
+Coming Soon
 
 Check out this Meetup Group in Erode: https://www.meetup.com/owasp-erode/ #Meetup #Erode via @Meetup 
 
