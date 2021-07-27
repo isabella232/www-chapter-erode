@@ -81,5 +81,5 @@ Learn Hackng through CTFs
 
 | Date       | Mode   | Recording      | Speaker          |
 |------------|--------|----------------|------------------|
-| 13th March | Online | not available  | Sandeep Srinivas |
+| 13th March | Online | not available  | Sandeep Srinivasan |
 
