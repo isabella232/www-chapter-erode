@@ -14,6 +14,7 @@ tags: OWASP Chapter Erode
 <hr>
 **25th JULY, 2021 - 5:00 PM**
 Methodologies and Approach to bug bounty hunting.
+
 ![Methodologies and Approach to bug bounty hunting](https://raw.githubusercontent.com/OWASP/www-chapter-erode/master/assets/images/Methodologies%20and%20Approach%20to%20bug%20bounty%20hunting.png)
 
 <br><br>
