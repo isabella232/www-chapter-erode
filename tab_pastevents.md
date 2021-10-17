@@ -83,3 +83,4 @@ Learn Hackng through CTFs
 |------------|--------|----------------|------------------|
 | 13th March | Online | not available  | Sandeep Srinivasan |
 
+{% include chapter_events.html group=page.meetup-group %}
