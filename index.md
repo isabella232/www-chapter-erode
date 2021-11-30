@@ -68,6 +68,7 @@ Event Date | Event Mode | Time | Topic | Speaker
 27 June 2021 | On-line | 5:00PM IST | Getting Started in Android Security | Abhinivesh S 
 4 July 2021 | On-line | 5:00PM IST | XML External Entity (XXE) | Monish Kumar
 25 July 2021 | On-line | 5:00PM IST | Methodologies and Approach to start Bug Bounty Hunting | Tushar Verma
+27 November 2021 | on-line | 5:00AM IST | JVM Reverse Engineering Introduction | Abhinivesh S
 
 
 ## Upcoming Events
