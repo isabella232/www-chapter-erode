@@ -72,9 +72,8 @@ Event Date | Event Mode | Time | Topic | Speaker
 
 
 ## Upcoming Events
-
-Coming Soon
-
+    - OSINT 101 by Badhrinathan 05-02-2022 6PM Gmeet
+    
 Check out this Meetup Group in Erode: https://www.meetup.com/owasp-erode/ #Meetup #Erode via @Meetup 
 
 ## To Join OWASP Erode
